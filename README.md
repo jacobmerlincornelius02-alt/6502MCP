@@ -108,4 +108,4 @@ Use these with any MCP‑enabled LLM after registering the server:
    - “Create a 6502 routine to sum a 4‑byte array at $20–$23 into $30. Include a small test harness, assemble_and_load it, run, and verify the output with read_memory.”
 
 4. **Trace an error**
-   - “Assemble this code, step 30 instructions, then show PC, A, X, Y, and $00–$0F so I can see where it went off course.”
+   - “Assemble this code, step 30 instructions, then show PC, A, X, Y, and $00–$0F so I can see where it went off course.” 
